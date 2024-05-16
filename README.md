@@ -6,6 +6,4 @@ The project makes use of the pyrqrcode and validators module in Python
 
 ![alt text](https://github.com/Faith-Nchang/LinkQR-Catalyst/blob/main/QR%20code%20generator%20GUI.png)
 
-![alt text][(http://url/to/img.png)](https://github.com/Faith-Nchang/LinkQR-Catalyst/blob/main/uca-url.svg
-)
-
+![alt text](https://github.com/Faith-Nchang/LinkQR-Catalyst/blob/main/uca-url.svg)
